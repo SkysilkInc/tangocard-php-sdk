@@ -1,5 +1,5 @@
 {
-    "name": "skysilkinc/skysilk-tangocard",
+    "name": "skysilk/tangocard-php-sdk",
     "type": "library",
     "description": "Tango Card PHP SDK",
     "keywords": ["Tango Card RaaS v2 API","API","SDK"],
