@@ -1,5 +1,5 @@
 {
-    "name": "dimonion/tangocard_php_sdk",
+    "name": "skysilkinc/skysilk-tangocard",
     "type": "library",
     "description": "Tango Card PHP SDK",
     "keywords": ["Tango Card RaaS v2 API","API","SDK"],
